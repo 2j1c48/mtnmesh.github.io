@@ -16,5 +16,6 @@
 
 ## Related groups
 
+- Georgia Statewide Mesh Coalition : [Meshing All of Georgia](https://GAmesh.net/)
 - [Big Shanty Repeater Group (BSRG)](https://bsrg.org/)
 - DefCon Atlanta: [DC404](https://dc404.org/)
