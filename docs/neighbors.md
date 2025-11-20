@@ -18,3 +18,4 @@
 
 - [Big Shanty Repeater Group (BSRG)](https://bsrg.org/)
 - DefCon Atlanta: [DC404](https://dc404.org/)
+- Georgia Statewide Mesh Coalition: [Meshing all of Georgia](https://GAmesh.net/)
